@@ -1,7 +1,5 @@
 ### Hi There 👋
 
-[My LinkedIn](https://www.linkedin.com/in/jimmycollins-softwareengineer/)
-
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=slimjim49j&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
 
 <!--
